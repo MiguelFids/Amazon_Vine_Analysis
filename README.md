@@ -14,13 +14,16 @@ From the data uploaded to our RDS, we will extract the vine_table data to answer
 
 
 * How many Vine reviews and non-Vine reviews were there?
+    
     There were a total of 1,785,997 reviews in total. Of the total amount of reviews, 4,291 of them were Vine users.
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+    
     48 Vine reviews scored the products with 5 stars. 
     15,663 non-Vine reviews scored the products 5 stars.
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+    
     1.12% of Vine reviews were 5 star.
     0.88% of non-Vine reviews were 5 star. 
 
